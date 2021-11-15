@@ -1,0 +1,29 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+
+  border: 5px;
+}
+.contact input,
+textarea {
+  margin-bottom: 5px;
+}
+.about-bannar {
+  background-image: url(../../../pic/aboutbannar.jpg);
+  height: 250px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.89;
+}
+.text {
+  color: red;
+  text-shadow: 2px 2px 2px white;
+  font-weight: 900;
+  font-size: 120px;
+  margin: 5px;
+}
+.about-text {
+  text-align: justify;
+}

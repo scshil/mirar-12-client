@@ -1,0 +1,25 @@
+.nav-text {
+  text-decoration: none;
+  margin-left: 3px;
+  padding: 5px;
+  font-weight: 900;
+  color: whitesmoke;
+}
+.dashboard-btn {
+  background-color: rgb(64, 196, 196);
+  color: black;
+
+  text-shadow: 1px 1px 1px rgb(224, 116, 116);
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 2px;
+}
+.login-btn {
+  background-color: greenyellow;
+  text-shadow: 1px 1px 1px black;
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  font-weight: 500;
+  padding: 2px;
+  margin-left: 2px;
+}

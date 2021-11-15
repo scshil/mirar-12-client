@@ -1,0 +1,14 @@
+.addproduct-page {
+  height: 100vh;
+}
+.productform {
+  display: flex;
+  flex-direction: column;
+
+  border: 5px;
+  width: 50%;
+}
+.productform input,
+textarea {
+  margin-bottom: 5px;
+}
